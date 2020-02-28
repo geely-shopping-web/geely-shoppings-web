@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .top-daohang{
 	background-color: black;
 	width: 100%;
@@ -148,6 +149,158 @@ a.top-btn:hover{
 
 
 
+=======
+.top-daohang{
+	background-color: black;
+	width: 100%;
+	height: 40px;
+	text-align: right;
+	color: gray;
+	padding-top: 10px;
+	padding-right: 6%;
+}
+#logo{
+	float: left;
+	padding-left: 3%;
+	margin-top: -0.5%;
+	color: #28A745;
+	font-family: 华文新魏;
+	font-size: 25px;
+}
+#login-info{
+	padding-right: 10%;
+	width: 230px;
+	margin-left: 75%;
+	position: absolute;
+	
+}
+.goodcar{
+	color: gray;
+	text-decoration: none;
+}
+a.goodcar:active{
+	color: white;
+	text-decoration: none;
+}
+a.goodcar:hover{
+	color: white;
+	text-decoration: none;
+}
+
+
+.top-btn{
+	color: gray;
+	text-decoration: none;
+}
+a.top-btn:active{
+	color: white;
+	text-decoration: none;
+}
+a.top-btn:hover{
+	color: white;
+	text-decoration: none;
+}
+/* 购物车隐藏 */
+.goodcar_wrap{
+			display: none;
+			position: absolute;
+            
+			margin-left: 77%;
+			margin-top: 0.8%;
+			text-align: center;
+			background-color: white;
+        }
+		
+.goodcar{
+	
+	padding-left: 55px;
+	cursor:pointer;
+}
+#seclogo{
+	cursor:pointer;
+}
+
+.gocar{
+	
+	text-align: right;
+}
+.goodpic{
+	width: 75px;
+	height: 55px;
+	
+}
+.goodxq{
+	padding-right: 20px;
+}
+
+
+
+#seconddaohang{
+	padding-top: 2%;
+	text-align: center;
+	margin: auto;
+	width: 80%;
+	height: 120px;
+}
+.tt{
+	
+	width: 490px;
+}
+.tt li{
+	float: left;
+}
+
+#seclogo{
+	width: 230px;
+	height: 100px;
+	float: left;
+}
+.seclogo{
+	height: 90px;
+
+}
+
+#secdaohang{
+	padding-top: 30px;
+	width: 770px;
+	height: 100px;
+	float: right;
+	text-align: center;
+}
+#daohang1{
+	font-size: 18px;
+	float: left;
+	widows: 390px;
+}
+
+#daohang2{
+	padding-top: 5px;
+	float: right;
+	width: 280px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 9f8c99156d99f5758a42440e9cae09bc258972dd
 html body, html h1, html h2, html h3, html h4, html h5, html h6, html hr, html p, html blockquote, html dl, html dt, html dd, html ul, html ol, html li, html pre, html form, html fieldset, html legend, html button, html input, html textarea, html th, html td {
   margin: 0;
   padding: 0; }

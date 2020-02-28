@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 		
+=======
+		
+>>>>>>> 9f8c99156d99f5758a42440e9cae09bc258972dd
 
 $(".floor_goods_wrap_li").hover(function () {
        $(this).css({"top":"-5px",
